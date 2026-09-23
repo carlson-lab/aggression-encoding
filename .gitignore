@@ -1,0 +1,44 @@
+# Local environments and caches
+.venv*/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Research data, fitted models, checkpoints, and archives
+data/
+private_data/
+*.mat
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.ods
+*.p
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt*
+*.index
+*.data-*
+*.zip
+*.gz
+
+# Generated figures, exports, and documents
+outputs/
+results/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.html
+*.docx
+*.ai
+*.txt
+!requirements.txt

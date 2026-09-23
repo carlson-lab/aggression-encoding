@@ -1,0 +1,10 @@
+# Starting environment for the retained mediation code; not an original-run lockfile.
+numpy>=1.21,<2
+scipy>=1.7,<2
+pandas>=1.3,<3
+statsmodels>=0.13,<0.15
+h5py>=3,<4
+matplotlib>=3.4,<4
+scikit-learn>=1,<2
+notebook>=6,<8
+nbformat>=5,<6
